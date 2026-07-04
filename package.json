@@ -1,0 +1,14 @@
+{
+  "name": "video-generator-frontend",
+  "version": "1.0.0",
+  "description": "AI Video Generator Frontend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "hono": "^4.0.0"
+  }
+}
